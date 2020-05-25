@@ -9,7 +9,7 @@
   
   <default name="Macha-Narendra"
            revision="master"
-           remote = "Narendra"
+           remote="Narendra"
            fetch="https://github.com/Macha-Narendra/" />
   
   <project path="art" name="platform/art" groups="pdk" />
