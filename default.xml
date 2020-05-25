@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="aosp"
-           fetch="https://github.com/Macha-Narendra/"
-           review="https://github.com/Macha-Narendra/" />
+  <remote  name="Narendra"
+           fetch="https://github.com/"
+           review="https://github.com/" />
   <remote revision="master"
            remote="aosp"
            sync-j="4" />
   
-  <default  name="Macha-Narendra"
+  <default name="Macha-Narendra"
            revision="master"
+           remote = "Narendra"
            fetch="https://github.com/Macha-Narendra/" />
   
   <project path="art" name="platform/art" groups="pdk" />
