@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Macha-Narendra"
-          fetch="https://github.com/Macha-Narendra"
-          review="https://github.com/Macha-Narendra" />
-  <remote revision="master"
-          remote="aosp"
-          sync-j="4" />
+  <remote  name="Macha-Narendra"
+           fetch="https://github.com/Macha-Narendra"
+           review="https://github.com/Macha-Narendra" />
   
   <default revision="master"
-           remote="Narendra"
+           remote="Macha-Narendra"
            fetch="https://github.com/Macha-Narendra/" />
   
   <project path="art" name="platform/art" groups="pdk" />
