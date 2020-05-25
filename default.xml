@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="Narendra"
-           fetch="https://github.com/"
-           review="https://github.com/" />
+  <remote name="Narendra"
+          fetch="https://github.com/"
+          review="https://github.com/" />
   <remote revision="master"
-           remote="aosp"
-           sync-j="4" />
+          remote="aosp"
+          sync-j="4" />
   
   <default revision="master"
            remote="Narendra"
