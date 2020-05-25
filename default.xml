@@ -7,8 +7,7 @@
            remote="aosp"
            sync-j="4" />
   
-  <default name="Macha-Narendra"
-           revision="master"
+  <default revision="master"
            remote="Narendra"
            fetch="https://github.com/Macha-Narendra/" />
   
