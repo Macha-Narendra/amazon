@@ -4,7 +4,7 @@
            fetch="https://github.com/Macha-Narendra"
            review="https://github.com/Macha-Narendra" />
   
-  <default revision="master"
+  <default revision="v1.0"
            remote="Macha-Narendra"
            fetch="https://github.com/Macha-Narendra/" />
   
