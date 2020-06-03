@@ -10,7 +10,7 @@
   
   <project path="art" name="platform/art" groups="pdk" />
   <project path="game-of-life" name="game-of-life" />
-  <project path="bionic" name="platform/bionic" groups="pdk" />
-  <project path="device/generic/art" name="device/generic/art" groups="pdk" />
+<!--  <project path="bionic" name="platform/bionic" groups="pdk" />
+  <project path="device/generic/art" name="device/generic/art" groups="pdk" />  -->
   
 </manifest>
